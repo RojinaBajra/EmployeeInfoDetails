@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+		background:##CCEEFF;
+		   overflow: hidden;
+	 margin: 0;
+    padding: 0;
+		}
+	
+#nav{
+		align:center;
+		list-style-type:none;
+		
+}
+#nav li{
+		margin-right:20px;
+		float:left;
+		}
+#menu .menu1 {
+		list-style:none;
+		align:center;
+		margin-top:-50px;
+		margin-left:-60px;
+		margin-right:-60px;
+		background-color:#98B0D2;
+		height:40px;
+		margin-bottom:40px;
+		   overflow: hidden;
+		
+		}
+#header{
+		margin-top:-1px;
+		margin-left:-116px;
+		margin-right:auto;
+		background-colr:#E2E2E2;
+
+
+		height:100px;
+		width:1350px;
+		align:center;
+		}
+#menu .menu1  li{
+	    float:left;
+	
+		line-height:40px;
+	
+		width:350px;
+		color:#FFFFFF;
+		
+		text-align:center;
+		
+	
+		}
+#line{
+margin-left:200px;
+height:20px;
+}
+.paging{
+margin-top:20px;
+
+}
+#toolbar{
+margin-left:810px;
+}
+
+
+#table{
+margin-top:20px;
+margin-left:10px;
+}
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}
+:required:focus {
+  box-shadow: 0  0 3px rgba(255,0,0,0.5); 
+}
+.tablebox  #address {
+margin-left:20px ;
+position:absolute;
+
+}
+.tablebox{
+margin-left:50px;
+
+}
+.dropDown{
+margin-left : 10px;
+margin-top:20px;
+margin-left:70px;
+
+}
+.iframe{
+height:150px;
+width:150px;
+margin-left:70px;
+
+}
+
+#detailBox{
+margin-top: -500px;
+}
+#wrapper{
+margin-left:auto
+   overflow: scroll;
+}
+#frame{
+margin-left:80px;
+width:1200px;
+}
+#detailTable{
+margin-left:-500px;
+}
+.textBoxSize{
+width: 80px;
+}
+
